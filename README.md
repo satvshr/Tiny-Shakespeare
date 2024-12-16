@@ -1,6 +1,6 @@
-# 📜 Shakespeare
+# 📜 Tiny-Shakespeare
 
-Welcome to **Shakespeare**! This project generates beautiful poems using a custom decoder model, then refines the poem and provides an explanation with the help of the Gemini API. The project is deployed using Gradio, allowing for an interactive and user-friendly experience. 🎨📚
+Welcome to **Tiny-Shakespeare**! This project generates beautiful poems using a custom decoder model, then refines the poem and provides an explanation with the help of the Gemini API. The project is deployed using Gradio, allowing for an interactive and user-friendly experience. 🎨📚
 
 ## 🚀 Features
 
